@@ -12,6 +12,7 @@ autopep8 = "*"
 numpy = "*"
 matplotlib = "*"
 numba = "*"
+scipy = "*"
 
 [requires]
 python_version = "3.7"
